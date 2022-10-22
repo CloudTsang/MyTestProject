@@ -1,0 +1,215 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,武器_png,背景_png,标题栏_png,等级底板_png,返回按钮_png,格子背景_png,关闭按钮_png,加号按钮_png,框_红_png,框_红外_png,框_空_png,框_空外_png,框_蓝_png,框_蓝外_png,容量底板_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "武器_png",
+			"type": "image",
+			"url": "assets/mypic/武器.png"
+		},
+		{
+			"name": "背景_png",
+			"type": "image",
+			"url": "assets/mypic/背景.png"
+		},
+		{
+			"name": "标题栏_png",
+			"type": "image",
+			"url": "assets/mypic/标题栏.png"
+		},
+		{
+			"name": "等级底板_png",
+			"type": "image",
+			"url": "assets/mypic/等级底板.png"
+		},
+		{
+			"name": "返回按钮_png",
+			"type": "image",
+			"url": "assets/mypic/返回按钮.png"
+		},
+		{
+			"name": "格子背景_png",
+			"type": "image",
+			"url": "assets/mypic/格子背景.png"
+		},
+		{
+			"name": "关闭按钮_png",
+			"type": "image",
+			"url": "assets/mypic/关闭按钮.png"
+		},
+		{
+			"name": "加号按钮_png",
+			"type": "image",
+			"url": "assets/mypic/加号按钮.png"
+		},
+		{
+			"name": "框_红_png",
+			"type": "image",
+			"url": "assets/mypic/框_红.png"
+		},
+		{
+			"name": "框_红外_png",
+			"type": "image",
+			"url": "assets/mypic/框_红外.png"
+		},
+		{
+			"name": "框_空_png",
+			"type": "image",
+			"url": "assets/mypic/框_空.png"
+		},
+		{
+			"name": "框_空外_png",
+			"type": "image",
+			"url": "assets/mypic/框_空外.png"
+		},
+		{
+			"name": "框_蓝_png",
+			"type": "image",
+			"url": "assets/mypic/框_蓝.png"
+		},
+		{
+			"name": "框_蓝外_png",
+			"type": "image",
+			"url": "assets/mypic/框_蓝外.png"
+		},
+		{
+			"name": "容量底板_png",
+			"type": "image",
+			"url": "assets/mypic/容量底板.png"
+		}
+	]
+}
